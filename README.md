@@ -156,3 +156,5 @@ Commit 1 to master
 commit 2 to master
 
 Development commit 1
+
+Development commit 2
