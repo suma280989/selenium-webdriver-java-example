@@ -152,3 +152,5 @@ This project can be read in: [Brazilian Portuguese](README-pt-BR.md)
 ---
 
 Commit 1 to master
+
+commit 2 to master
